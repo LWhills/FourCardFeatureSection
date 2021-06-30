@@ -74,6 +74,7 @@ main {
 }
 .block-body {
   margin-bottom: 2em;
+  font-size: 0.8125rem;
 }
 .block-img {
   margin-left: auto;
