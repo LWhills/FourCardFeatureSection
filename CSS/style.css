@@ -10,6 +10,9 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   text-align: center;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
 }
 
 h1,
@@ -21,6 +24,7 @@ h1 {
 }
 h2 {
   font-size: 1.25rem;
+  margin-bottom: 0.5em;
 }
 .subtitle {
   font-weight: 200;
