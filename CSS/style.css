@@ -54,7 +54,7 @@ main {
   max-width: 540px;
   margin-bottom: 4em;
   margin: 0 auto;
-  margin-bottom: 3emmai;
+  margin-bottom: 3em;
 }
 .block {
   padding: 1em 2em;
@@ -85,7 +85,7 @@ main {
 .block-4 {
   border-top: 4px solid #fcae4a;
 }
-@media only screen and (min-device-width: 1345px) {
+@media only screen and (min-width: 1345px) {
   main {
     max-width: none;
   }
