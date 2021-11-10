@@ -12,6 +12,6 @@ Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/four
   
 ## Demo
 
-https://loganwillaumez.github.io/four-card-feature-section/
+https://loganwillaumez-frontendmentor.github.io/005-four-card-feature-section/
 
   
